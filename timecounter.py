@@ -1,3 +1,7 @@
+# Time Counter App
+# Vsersion 1.0
+# Created By naqviO7
+
 # simple gui app in python
 # inspired from time counter app in smartphone
 
